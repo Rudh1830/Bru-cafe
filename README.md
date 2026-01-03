@@ -4,7 +4,6 @@
 It showcases a café’s brand, menu, and ambiance with a clean and modern design.
 
 ---
-
 ## 🌟 Features
 
 - Clean and minimal UI  
